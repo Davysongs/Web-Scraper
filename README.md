@@ -6,7 +6,7 @@ This Python script scrapes product information from the Jumia website based on u
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Required Python packages: `requests`, `beautifulsoup4`
 
 Install the required packages using:
@@ -22,7 +22,7 @@ This Python script scrapes product information from the Jumia website based on u
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Required Python packages: `requests`, `beautifulsoup4`
 
 Install the required packages using:
